@@ -12,7 +12,7 @@ Check out [My Portfolio ](https://hritik0910.github.io/) | you can reach me to t
 
 # 
 
- <p align="center">
+<!--<p align="center">
  <b>
   MY WEEKLY CODING ACTIVITY GRAPH
   </b>
@@ -20,7 +20,7 @@ Check out [My Portfolio ](https://hritik0910.github.io/) | you can reach me to t
 
 <p align="center">
 <img src=https://github.com/hritik0910/hritik0910/blob/master/images/stat.svg alt="image"/>
-</p>
+</p> -->
 
 #
 
