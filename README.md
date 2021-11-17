@@ -3,7 +3,7 @@
 <p align="left">
  
 My name is Hritik Srivastava and I am currently a junior at Noida Institute of Engineering and Technology,Greater Noida
-- Currently, I am learning C++ 💻. 
+- Currently, I am learning Java 💻. 
 - My interest areas are gaming  👩‍💻. 
    (❁´◡`❁).
 
