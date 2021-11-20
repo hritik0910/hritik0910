@@ -10,8 +10,8 @@ My name is Hritik Srivastava and I am currently a junior at Noida Institute of E
 Check out [My Portfolio ](https://hritik0910.github.io/) | you can reach me to through my [Email](hritik.s.0910@gmail.com)
 &nbsp;
 
-# 
 
+#
 <!--<p align="center">
  <b>
   MY WEEKLY CODING ACTIVITY GRAPH
