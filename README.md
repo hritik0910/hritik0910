@@ -2,6 +2,7 @@
 <img align="right" height="180px" src="https://pricode.io/wp-content/uploads/2019/04/programmer.gif" alt="image" />
 <p align="left">
  
+ 
 My name is Hritik Srivastava and I am currently a junior at Noida Institute of Engineering and Technology,Greater Noida
 - Currently, I am learning Java 💻. 
 - My interest areas are gaming  👩‍💻. 
