@@ -7,7 +7,7 @@ My name is Hritik Srivastava and I am currently a junior at Noida Institute of E
 - Currently, I am learning Java 💻. 
 - My interest areas are gaming  👩‍💻. 
    (❁´◡`❁).
--Currently a One ⭐ coder at codeshef.
+- Currently a One ⭐ coder at codeshef.
 
 Check out [My Portfolio ](https://hritik0910.github.io/) | you can reach me to through my [Email](hritik.s.0910@gmail.com)
 &nbsp;
